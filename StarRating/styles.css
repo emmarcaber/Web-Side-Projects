@@ -86,6 +86,7 @@
 
 .rating__progress-value p:last-child {
   width: 10%;
+  letter-spacing: 0.1rem;
 }
 
 .rating__progress .progress {
